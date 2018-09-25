@@ -15,3 +15,5 @@
 
 4) Add this where you want the toggle to be:
 ``TriggerServerEvent("esx_phone3:togglePhone")``
+
+5) Make sure your item that open the phone is named ``phone``
